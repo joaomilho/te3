@@ -1,0 +1,11 @@
+coffee -o lib/ -j te3 -cw \
+  src/constants.coffee \
+  src/components/component_base.coffee \
+  src/components/window.coffee \
+  src/components/camera.coffee \
+  src/components/renderer.coffee \
+  src/components/scene.coffee \
+  src/components/grid.coffee \
+  src/components/blocks/*.coffee \
+  src/components/random_block.coffee \
+  src/te3.coffee
