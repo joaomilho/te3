@@ -6,5 +6,4 @@ class BlockLV extends BlockBase
     [0,1,1]
   ]
   color: 'orange'
-  width: 2
   initialX: 3

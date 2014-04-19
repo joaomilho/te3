@@ -6,6 +6,7 @@ class BlockBase extends ComponentBase
     @component = @merge(@geometries())
     @x(@initialX * CUBE_SIZE)
     @y(TOP)
+    @width = _.max _.map @format, ((row) -> _.countBy(row)[1])
 
   geometries: ->
     geometries = []

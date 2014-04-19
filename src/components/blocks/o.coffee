@@ -6,4 +6,3 @@ class BlockO extends BlockBase
     [0,1,1]
   ]
   color: 'yellow'
-  width: 2

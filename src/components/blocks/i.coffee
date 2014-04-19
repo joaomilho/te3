@@ -6,4 +6,3 @@ class BlockI extends BlockBase
     [0,1,0]
   ]
   color: 'blue'
-  width: 1

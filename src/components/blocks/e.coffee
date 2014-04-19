@@ -6,6 +6,5 @@ class BlockE extends BlockBase
     [1,1,1]
   ]
   color: 'green'
-  width: 3
   translateX: 1
   initialX: 3

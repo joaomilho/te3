@@ -6,4 +6,3 @@ class BlockL extends BlockBase
     [0,1,1]
   ]
   color: 'red'
-  width: 2
